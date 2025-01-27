@@ -4,7 +4,7 @@
 <h4>Infos:</h4>
 <h6>* Pretendo trabalhar em empresas onde posso me desenvolver e contribuir com a equipe</h4>
 <h6>* Sou comunicativo e positivo</h6>
-<h6>* Gosto detrabalhar em equipe
+<h6>* Gosto de trabalhar em equipe
 <h6>* Sou sempre focado nos objetivos
 <h6>* Amo tecnologia
 
